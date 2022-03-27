@@ -105,11 +105,8 @@ http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="电影",卫视电影台
 http://59.125.101.187:8599/.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8GHvPqK.jpg" group-title="电影",纬来电影台
-http://qq286780.v3.aihost6.top/ccav/ccav.php?id=9
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" group-title="电影",LSTime电影台
-http://dllb.jxin122.top/jj.php?id=13&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",电影台
+http://data.3g.yy.com/live/hls/29900720/29900720
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmov.png" group-title="电影",星卫HD电影台
 http://50.7.218.42:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
@@ -129,8 +126,6 @@ http://iptv.tvfix.org/hls/typd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/j6mjoJW.jpg" group-title="电影",天映经典
 http://iptv.tvfix.org/hls/tyjd.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",电影台
-http://data.3g.yy.com/live/hls/29900720/29900720
 
 #EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="https://i.imgur.com/0wBTvVv.jpg" group-title="电影",HBO
 http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
@@ -153,9 +148,11 @@ http://59.125.101.187:8550/.m3u8
 #EXTINF:-1 tvg-id="6089" tvg-name="CINEMAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="电影",CINEMAX
 http://50.7.218.42:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311485855&ct=17874&tsum=63ee6bcdb705ee72ea3d0f0d84ed6df1#http://50.7.218.42:8278/cinemax_twn/playlist.m3u8?tid=MEAE1417577214175772&ct=18392&tsum=5d6639abf9c0be1bdb8ded47c91e3af7
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8GHvPqK.jpg" group-title="电影",纬来电影台
+http://qq286780.v3.aihost6.top/ccav/ccav.php?id=9
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" group-title="电影",LSTime电影台
+http://dllb.jxin122.top/jj.php?id=13&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
