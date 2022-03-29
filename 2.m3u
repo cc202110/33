@@ -83,13 +83,13 @@ https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 
 
 #EXTINF:-1 group-title="人文" tvg-logo="https://i.imgur.com/3flaIpI.jpg",国家地理野生频道
-http://50.7.218.42:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8#http://50.7.218.42:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
+http://50.7.218.42:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
 
 #EXTINF:-1 tvg-id="discovery" group-title="人文" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/Discovery-logo.png",Discovery
-http://iptv.tvfix.org/hls/discovery.m3u8
+http://59.125.101.187:8578/playlist.m3u8
 
 #EXTINF:-1 tvg-id="discovery" group-title="人文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png",动物星球
-http://59.125.101.187:8593/playlist.m3u8
+https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 group-title="人文" tvg-logo="https://i.imgur.com/5ZY3zbt.jpg",tvN
 http://iptv.tvfix.org/hls/tvn.m3u8
