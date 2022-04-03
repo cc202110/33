@@ -117,7 +117,7 @@ http://59.125.101.187:8599/.m3u8
 http://59.125.101.187:8619/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" group-title="电影",龙祥时代
-http://50.7.218.42:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
+http://120.84.96.27:808/hls/35/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E6%B4%8B%E7%89%87.png" group-title="电影",龙华洋片
 http://50.7.218.42:8278/lunghuawestern_twn/playlist.m3u8?tid=m8fe1f2649ecd12830420&ct=17874&tsum=a6674ed93a8ec4ea4705c721b752d4db
