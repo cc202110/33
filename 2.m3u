@@ -130,10 +130,10 @@ http://data.3g.yy.com/live/hls/29900720/29900720
 http://50.7.218.42:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
 
 #EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="电影",东森电影台
-http://50.7.218.42:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
+http://120.84.96.27:808/hls/32/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/mo0qbBf.jpg" group-title="电影",东森洋片台
-http://50.7.218.42:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
+http://120.84.96.126:808/hls/33/index.m3u8
 
 #EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="电影",美亚电影台
 http://50.7.218.42:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
