@@ -1,12 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="新闻",xiwen
-http://ott3.alwaysdata.net/live/hk.php?id=4
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="新闻",CCTV13
 http://39.135.55.105:6610/PLTV/88888888/224/3221225817/index.m3u8?servicetype=1
-
-
 
 #EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="新闻",北京新闻
 http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?
@@ -147,7 +143,8 @@ http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoc
 #EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="https://i.imgur.com/0wBTvVv.jpg" group-title="电影",HBO
 http://59.125.101.187:8615/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",爱上4K
+http://111.20.33.93/PLTV/88888893/224/3221226352/index.m3u8
 
 
 
@@ -783,20 +780,15 @@ https://p.ggiptv.com/v/4k.m3u8
 http://ye23.win/iptv/4k.cctv.php
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K",CCTV4K
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/hbtvALz.png" group-title="4K",CCTV奥运4k
-http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226283/1/index.m3u8?fmt=ts2hls
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",北京IPTV淘剧场
 http://39.134.134.88/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOtChdQBj46BMs%2FmbjOB0PZw%3D%3D%3A20211105223205%2C10000100000000050000000003887499%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",纯享4K
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",探索4k
-http://39.134.184.95:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232776/42330389.smil/index.m3u8?fmt=ts2hls?fmt=ts2hls
-#EXTINF:-1 tvg-id="7251" tvg-name="广东综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVENT.png" group-title="4K",广东综艺4k
-http://astream.apk1088.com:18888/channel.php?id=GDZYHD4K_38000
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",爱上4K
-http://111.20.33.93/PLTV/88888893/224/3221226352/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",1MV4K
 http://136.243.42.146:1499
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",Clarity4K
