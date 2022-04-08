@@ -706,6 +706,69 @@ https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 --------------------------------------------------------------------
 -------------¥¥¥¥¥--------------------------------------------------
 --------------------------------------------------------------------
+#EXTINF: -1 tvg-id="Animal Planet-ClipTV" tvg-name="Animal Planet" tvg-logo="https://i.imgur.com/V6dxmRT.png" group-title="北美", ANIMAL PLANET HD
+https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF: -1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://i.ibb.co/tKy129y/Animax.png" group-title="北美", ANIMAX HD
+https://vips-livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF: 69 tvg-id="MyTV_arirang" tvg-name="Arirang" tvg-logo="https://i.imgur.com/iEWywuh.png" group-title="北美", ARIRANG
+https://livecdn.fptplay.net/sdb/arirang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: 150 tvg-id="MyTV_Asian Food Channel HD" tvg-name="AFN HD" tvg-logo="https://i.imgur.com/prAa9lP.png" group-title="北美", ASIAN FOOD NETWORK HD
+https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF: -1 tvg-id="AXN-ClipTV" tvg-name="AXN HD" tvg-logo="https://imgur.com/AyyX0IP.png" group-title="北美", AXN HD
+https://vips-livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF: -1 tvg-id="babyfirt" tvg-name="nn" tvg-logo="https://i.imgur.com/iCCuGAJ.png" group-title="北美", BABY FIRST HD
+https://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF: 163 tvg-id="Baby TV HD-ClipTV" tvg-name="BabyTV HD" tvg-logo="https://i.imgur.com/DI5IdU5.png" group-title="北美", BABY TV HD
+https://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF: -1 tvg-id="bbc_earth" tvg-name="BBC EARTH" tvg-logo="https://i.imgur.com/E7OD4ML.jpg" group-title="北美", BBC EARTH HD
+https://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF: -1 tvg-id="BBC LIFESTYLE" tvg-name="BBC Life Style" tvg-logo="https://i.imgur.com/ezmA7U3.png" group-title="北美", BBC LIFESTYLE
+https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
+#EXTINF: -1 tvg-id="Blue Ant Entertainment" tvg-name="Blue Ant Entertainment HD" tvg-logo="https://i.imgur.com/gMmqAoN.png" group-title="北美", BLUE ANT ENTERTAINMENT HD
+https://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF: -1 tvg-id="blueantext" tvg-name="Blue Ant Extreme HD" tvg-logo="https://i.imgur.com/40GjG9n.png" group-title="北美", BLUE ANT EXTREME HD
+https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF: -1 tvg-id="Boomerang-ClipTV" tvg-name="Boomerang" tvg-logo="https://i.imgur.com/1tM3Gwp.png" group-title="北美", BOOMERANG HD
+https://vips-livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF: -1 tvg-id="cartoon_network" tvg-name="Cartoon Network HD" tvg-logo="https://i.imgur.com/dpGiaH5.png" group-title="北美", CARTOON NETWORK HD
+https://vips-livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF: -1 tvg-id="cbeebies" tvg-name="cbeebies" tvg-logo="https://i.imgur.com/oD53jAs.png" group-title="北美", CBEEBIES HD
+https://vips-livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF: -1 tvg-id="cinema_world_hd" tvg-name="Cinema World HD" tvg-logo="https://i.imgur.com/NywNFd7.jpg" group-title="北美", CINEMA WORLD HD
+https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF: -1 tvg-id="Max by HBO" tvg-name="nn" tvg-logo="https://i.imgur.com/4vYV1PK.png" group-title="北美", CINEMAX HD
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: -1 tvg-id="CNBC USA" tvg-name="CNBC" tvg-logo="https://i.imgur.com/WdpbrLT.png" group-title="北美", CNBC
+https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: 148 tvg-id="MyTV_Da Vinci Learning HD" tvg-name="DaVinci HD" tvg-logo="https://imgur.com/vf9RpQb.png" group-title="北美", DA VINCI HD
+https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF: -1 tvg-id="discoveryasiahd" tvg-name="Discovery Asia HD" tvg-logo="https://i.imgur.com/LEoWLdy.png" group-title="北美", DISCOVERY ASIA HD
+https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF: -1 tvg-id="discovery" tvg-name="Discovery Channel HD" tvg-logo="https://i.imgur.com/hkNiFL3.png" group-title="北美", DISCOVERY CHANNEL HD
+https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF: 145 tvg-id="dreamworks" tvg-name="dreamworks" tvg-logo="https://i.imgur.com/JAUu2uQ.jpg" group-title="北美", DREAMWORKS HD
+https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF: 136 tvg-id="DW-ClipTV" tvg-name="DW HD" tvg-logo="https://i.imgur.com/jTKR2q4.jpg" group-title="北美", DW HD
+https://vips-livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF: -1 tvg-id="MyTV_Fashion HD" tvg-name="Fashion TV HD" tvg-logo="https://imgur.com/AVm8t3Z.png" group-title="北美", FASHION TV HD
+https://vips-livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF: -1 tvg-id="hbo" tvg-name="nn" tvg-logo="https://i.imgur.com/JOIDdwy.png" group-title="北美", HBO HD
+https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: 138 tvg-id="kbsworld" tvg-name="KBS World" tvg-logo="https://imgur.com/HXFXYdZ.png" group-title="北美", KBS WORLD
+https://vips-livecdn.fptplay.net/hda3/kbs_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF: -1 tvg-id="KIX" tvg-name="Kix HD" tvg-logo="https://i.imgur.com/9IX0RyG.png" group-title="北美", KIX HD
+https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF: 79 tvg-id="MyTV_MTV HD" tvg-name="MTV HD" tvg-logo="https://i.imgur.com/ZxK2Bw9.png" group-title="北美", MTV
+udp://@225.1.1.245:30120
+#EXTINF: -1 tvg-id="musicbox" tvg-name="nn" tvg-logo="https://i.imgur.com/btdrvPc.png" group-title="北美", MUSIC BOX HD
+https://livecdn.fptplay.net/hda3/music_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF: 50 tvg-id="nhkworld" tvg-name="nn" tvg-logo="https://i.imgur.com/DNuFsVE.png" group-title="北美", NHK WORLD JAPAN HD
+https://vips-livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF: 108 tvg-id="MyTV_Outdoor Channel HD" tvg-name="Outdoor Channel" tvg-logo="https://imgur.com/qhbsK2l.png" group-title="北美", OUTDOOR CHANNEL HD
+https://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF: -1 tvg-id="tlchd" tvg-name="nn" tvg-logo="https://imgur.com/PEXGQAG.png" group-title="北美", TLC HD
+https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北美",blueantent
 https://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8?bycoca
