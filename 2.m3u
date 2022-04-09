@@ -157,17 +157,31 @@ http://50.7.218.42:8278/videolandmovie/playlist.m3u8?tid=ma2dac66da407&ct=18335&
 
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
 http://ott3.alwaysdata.net/live/hk.php?id=1
-#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台 
+http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2台
 http://ott3.alwaysdata.net/live/hk.php?id=2
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2台
+http://50.7.218.42:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2台 
+http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台",明珠台
 http://ott3.alwaysdata.net/live/hk.php?id=4
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台",明珠台
+http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
 
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻
 http://ott3.alwaysdata.net/live/hk.php?id=3
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://i.imgur.com/GyM0ORZ.png" group-title="港澳台",无线新闻台 
+http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",无线财经
+http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",无线财经
 http://ott3.alwaysdata.net/live/hk.php?id=5
+
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV
 http://ott3.alwaysdata.net/live/hk.php?id=9
 
@@ -179,46 +193,21 @@ http://ott3.alwaysdata.net/live/hk.php?id=6
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",港台电视32
 http://ott3.alwaysdata.net/live/hk.php?id=7
-
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台 
-http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
-
-#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2台 
-http://50.7.218.42:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
-#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2台 
-http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GyM0ORZ.png" group-title="港澳台",TVBJ1
-https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
-
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://i.imgur.com/GyM0ORZ.png" group-title="港澳台",无线新闻台 
-http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",无线财经
-http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
-
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台",明珠台
-http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/bhRObz3.png group-title="港澳台",TVB星河频道
-
-
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV
-
-
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV Six
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BKNgx8p.jpg" group-title="港澳台",星空卫视
-http://50.7.218.42:8278/xingkong/playlist.m3u8?tid=m61d2d25a9adb&ct=18335&tsum=bc464e6fb89211029ad1b93ac62830aa
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/RDfdX4g.jpg" group-title="港澳台",港台电视31
 http://50.7.218.42:8278/rhk31_twn/playlist.m3u8?tid=m46bfc2f9ab63&ct=18336&tsum=608dc3ebc82e03253ba562a9a81f0094
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/RDfdX4g.jpg" group-title="港澳台",港台电视32
 http://50.7.218.42:8278/rhk32_twn/playlist.m3u8?tid=m941409fa5c86&ct=18336&tsum=af847919dbe19ba95dbe614c6cfe2a10
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GyM0ORZ.png" group-title="港澳台",TVBJ1
+https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/bhRObz3.png group-title="港澳台",TVB星河频道
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BKNgx8p.jpg" group-title="港澳台",星空卫视
+http://50.7.218.42:8278/xingkong/playlist.m3u8?tid=m61d2d25a9adb&ct=18335&tsum=bc464e6fb89211029ad1b93ac62830aa
 
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港澳台",香港开电视
 
