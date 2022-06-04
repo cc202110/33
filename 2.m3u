@@ -43,6 +43,7 @@ https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="6183" tvg-name="Euronews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/euronews.png" group-title="新闻",euronews
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/43
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/NBC_News_2011.svg/592px-NBC_News_2011.svg.png" group-title="新闻",NBC NEWS
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
