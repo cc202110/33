@@ -150,36 +150,37 @@ https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8GHvPqK.jpg" group-title="电影",纬来电影台
 
 
-#EXTINF:-1,MIGU古天乐影院
+#EXTINF:-1,group-title="港澳台",GU古天乐影院
 http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8
-#EXTINF:-1,MIGU成龙作品集
+#EXTINF:-1,group-title="港澳台",GU成龙作品集
 http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
-#EXTINF:-1,MIGU郭富城影院
+#EXTINF:-1,group-title="港澳台",GU郭富城影院
 http://117.148.179.152/PLTV/88888888/224/3221231688/index.m3u8
-#EXTINF:-1,MIGU张国荣影院
+#EXTINF:-1,group-title="港澳台",GU张国荣影院
 http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8
-#EXTINF:-1,MIGU高分影院
+#EXTINF:-1,group-title="港澳台",GU高分影院
 http://117.148.179.182/PLTV/88888888/224/3221231699/index.m3u8
-#EXTINF:-1,MIGU周润发影院
+#EXTINF:-1,group-title="港澳台",GU周润发影院
 http://117.148.179.177/PLTV/88888888/224/3221231709/index.m3u8
-#EXTINF:-1,MIGU怀旧老片
+#EXTINF:-1,group-title="港澳台",GU怀旧老片
 http://117.148.179.146/PLTV/88888888/224/3221231513/index.m3u8
-#EXTINF:-1,MIGU周星驰影院
+#EXTINF:-1,group-title="港澳台",GU周星驰影院
 http://117.148.179.153/PLTV/88888888/224/3221231562/index.m3u8
-#EXTINF:-1,MIGU午夜失眠剧场
+#EXTINF:-1,group-title="港澳台",GU午夜失眠剧场
 http://117.148.179.141/PLTV/88888888/224/3221231516/index.m3u8
-#EXTINF:-1,MIGU吴京作品集
+#EXTINF:-1,group-title="港澳台",GU吴京作品集
 http://117.148.179.183/PLTV/88888888/224/3221231564/index.m3u8
-#EXTINF:-1,MIGU云上电影院
+#EXTINF:-1,group-title="港澳台",GU云上电影院
 http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8
-#EXTINF:-1,MIGU每日科幻电影
+#EXTINF:-1,group-title="港澳台",GU每日科幻电影
 http://117.148.179.160/PLTV/88888888/224/3221231568/index.m3u8
-#EXTINF:-1,MIGU葛优作品集
+#EXTINF:-1,group-title="港澳台",GU葛优作品集
 http://117.148.179.139/PLTV/88888888/224/3221231754/index.m3u8
-#EXTINF:-1,MIGU刘德华影院
+#EXTINF:-1,group-title="港澳台",GU刘德华影院
 http://117.148.179.154/PLTV/88888888/224/3221231757/index.m3u8
-#EXTINF:-1,MIGU僵尸剧场
+#EXTINF:-1,group-title="港澳台",GU僵尸剧场
 http://117.148.179.165/PLTV/88888888/224/3221231742/index.m3u8
+
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
