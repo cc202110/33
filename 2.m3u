@@ -2,10 +2,10 @@
 
 
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="新闻",CCTV13
-http://111.20.33.93/TVOD/88888893/224/3221226233/index.m3u8
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 
 #EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="新闻",北京新闻
-http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8
+http://live.funhillrm.com/5/sd/live.m3u8?zbeid
 
 
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
@@ -15,36 +15,34 @@ http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/117rOCy.png" group-title="新闻",无线新闻
-https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
 
 
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="新闻",HKC有线新闻台
-https://api.leonardpark.dev/live/icable/109
+http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/J12Aq3w.jpg" group-title="新闻",中天新闻
-http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
+http://23.237.10.66:16372
 
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="新闻",东森新闻台
-http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
 
 #EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="新闻",CNN
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="新闻",BBC World News
-http://vips-livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist_b500000.m3u8
+http://78.83.191.18:8000/play/a07a
 
 
 #EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="新闻",Skynews
-https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+
 
 #EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="新闻",France24
 http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="6183" tvg-name="Euronews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/euronews.png" group-title="新闻",euronews
-http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/43
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/NBC_News_2011.svg/592px-NBC_News_2011.svg.png" group-title="新闻",NBC NEWS
-http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m3zSu8l.png" group-title="新闻",FOX NewsNOW
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
